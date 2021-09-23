@@ -126,24 +126,11 @@ nav {
 }
 
 #featured li {
-    display: flex;
-    flex-wrap: wrap;
+    /* display: flex; */
     list-style: none;
     margin: 1%;
 }
 
 #featured li img{
     width: 100%;
-    margin-bottom: 10px;
-}
-
-#featured li a{
-    color: #333;
-    text-decoration: none;
-}
-
-#featured li span{
-    color: #333;
-margin-left: 109px;
-
 }

@@ -144,6 +144,6 @@ nav {
 
 #featured li span{
     color: #333;
-margin-left: 109px;
-
+    align-self: flex-end;
+    /* margin: 0 auto 0 0; */
 }
